@@ -1,0 +1,11 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+numpy==2.1.2
+opencv-python==4.10.0.84
+pillow==10.4.0
+PyMuPDF==1.24.11
+python-dotenv==1.0.1
+requests==2.31.0
+ttkbootstrap==1.10.1
+urllib3==2.2.1
